@@ -26,7 +26,7 @@ This tool is provided for educational and informational purposes only. The devel
 
 3. **Output will Looks Like**
 
-               ```bash
+	```bash
             Royall-CamFinder is made by
                 ____                   _ _ 
                |  _ \ ___  _   _  __ _| | |
@@ -130,7 +130,7 @@ This project is open-source and released under the [MIT License](LICENSE). Feel 
 
 ## Contact
 
-For questions, concerns, or feedback, please contact [Royall-Researchers] at [royallresearchers@gmail.com].
+For questions, concerns, or feedback, please contact Royall-Researchers at [royallresearchers@gmail.com].
 
 
 More on InstaGram : https://instagram.com/royallresearchers
@@ -140,10 +140,6 @@ Blog : https://royallresearchers.blogspot.com
 Medium : https://medium.com/@royallresearchers
 
 Quora : https://royallresearchers.quora.com
-
-YouTube : https://www.youtube.com@royallresearchers
-
-FaceBook : https://fb.com/royallresearchers
 
 
                                             Thank You !
