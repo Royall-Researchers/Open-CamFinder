@@ -141,5 +141,7 @@ Medium : https://medium.com/@royallresearchers
 
 Quora : https://royallresearchers.quora.com
 
+YouTube : https://youtube.com/@royallresearchers
 
+LinkedIn : https://www.linkedin.com/in/royall-researchers-780ab62a5/
                                             Thank You !
