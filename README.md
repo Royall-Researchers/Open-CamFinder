@@ -1,6 +1,6 @@
-# Royall-CamFinder Using Python
+# Open-CamFinder Using Python
 The Given Python Script is only enables users to find freely available internet cameras
-# Royall-CamFinder
+# Open-CamFinder
 BY Royall-Researchers
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -15,19 +15,19 @@ This tool is provided for educational and informational purposes only. The devel
 
    ```bash
    
-    git clone https://github.com/Royall-Researchers/Royall-CamFinder
-    cd Royall-CamFinder
+    git clone https://github.com/Royall-Researchers/Open-CamFinder
+    cd Open-CamFinder
     pip install -r requirements.txt
 
 2. **Run This Script:**
 
    ```bash
-   python Royall-CamFinder
+   python Open-CamFinder
 
 3. **Output will Looks Like**
 
 	```bash
-            Royall-CamFinder is made by
+            Open-CamFinder is made by
                 ____                   _ _ 
                |  _ \ ___  _   _  __ _| | |
                | |_) / _ \| | | |/ _` | | |
@@ -38,17 +38,7 @@ This tool is provided for educational and informational purposes only. The devel
                |  _ \ ___  ___  ___  __ _ _ __ ___| |__   ___ _ __ ___  
                | |_) / _ \/ __|/ _ \/ _` | '__/ __| '_ \ / _ \ '__/ __|
                |  _ <  __/\__ \  __/ (_| | | | (__| | | |  __/ |  \__ \ 
-               |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
-             
-
-                    	[+]This Tool is Created by Royall Researchers 
-	                    [+]This Tool is only for Educational Purpose 
-                            [+]no support for illegal or Un Ethical Activities 
-                            [+]You can Learn More From me 
-                            [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-                            [+]Blog : https://royallresearchers.blogspot.com 
-                            [+]Medium : https://royallresearchers.medium.com
-                            [+]Quora : https://royallresearchers.quora.com 
+               |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/      
                             
             Please Choose Country by Entering Numbers
             This tool enables users to effortlessly discover and access freely available internet cameras, 
@@ -132,16 +122,4 @@ This project is open-source and released under the [MIT License](LICENSE). Feel 
 
 For questions, concerns, or feedback, please contact Royall-Researchers at [royallresearchers@gmail.com].
 
-
-More on InstaGram : https://instagram.com/royallresearchers
-
-Blog : https://royallresearchers.blogspot.com
-
-Medium : https://medium.com/@royallresearchers
-
-Quora : https://royallresearchers.quora.com
-
-YouTube : https://youtube.com/@royallresearchers
-
-LinkedIn : https://www.linkedin.com/in/royall-researchers-780ab62a5/
                                             Thank You !
