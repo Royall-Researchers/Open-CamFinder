@@ -1,7 +1,7 @@
 import requests, re , colorama
 colorama.init()
 print("""
-\033[1;90mRoyall-CamFinder is made by
+\033[1;90mOpen-CamFinder is made by
     ____                   _ _ 
    |  _ \ ___  _   _  __ _| | |
    | |_) / _ \| | | |/ _` | | |
@@ -14,15 +14,6 @@ print("""
    |  _ <  __/\__ \  __/ (_| | | | (__| | | |  __/ |  \__ \ 
    |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
  
-
-        	[+]This Tool is Created by Royall Researchers 
-	        [+]This Tool is only for Educational Purpose 
-                [+]no support for illegal or Un Ethical Activities 
-                [+]You can Learn More From me 
-                [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-                [+]Blog : https://royallresearchers.blogspot.com 
-                [+]Medium : https://royallresearchers.medium.com
-                [+]Quora : https://royallresearchers.quora.com 
                 
 Please Choose Country by Entering Numbers
 This tool enables users to effortlessly discover and access freely available internet cameras, 
