@@ -15,7 +15,7 @@ This tool is provided for educational and informational purposes only. The devel
 
    ```bash
    
-    git clone https://github.com/Royall-Researchers/Open-CamFinder
+    git clone https://github.com/Royall-Researchers/Open-CamFinder.git
     cd Open-CamFinder
     pip install -r requirements.txt
 
